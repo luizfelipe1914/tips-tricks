@@ -28,7 +28,8 @@
            $ vagrant ssh
    ```
 
-   III. Finally, execute your tasks and tests. To shutdown the VM, log off and use this command:
-      ```shell
-            $ vagrant halt
-       ```
+   III. Finally, execute your tasks and tests. To shutdown the VM, log off and use this command:
+   
+   ```shell
+      $ vagrant halt
+   ```

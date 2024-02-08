@@ -15,6 +15,7 @@
    ![](./2024-02-07-23-24-32-image.png)
 
 3. The next step is the execution of the following commands:
+
    I. Init the project and download the box to our local machine:
    ```shell
          $ mkdir -p OL-9

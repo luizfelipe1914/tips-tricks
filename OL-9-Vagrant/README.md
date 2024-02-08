@@ -8,7 +8,7 @@
 
 
 
-1. First, you need to go to Oracle's Linux Download [page]([Oracle Linux Downloads](https://yum.oracle.com/oracle-linux-downloads.html)).
+1. First, you need to go to Oracle's Linux Download [page](https://yum.oracle.com/oracle-linux-downloads.html).
 
 2. Choose the second option: Vagrant.
    

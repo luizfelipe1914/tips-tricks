@@ -16,7 +16,7 @@
 
 3. The next step is the execution of the following commands:
    
-   1. Init the project and download the box to our local machine:
+   I. Init the project and download the box to our local machine:
       
       ```shell
          $ mkdir -p OL-9
@@ -24,14 +24,14 @@
          $ vagrant init oraclelinux/9 https://oracle.github.io/vagrant-projects/boxes/oraclelinux/9.json
       ```
 
-         2.  Start the VM and proceed to the SSH connection:
+    II.  Start the VM and proceed to the SSH connection:
 
       ```shell
         $ vagrant up
         $ vagrant ssh
       ```
 
-        3. Finally, execute your tasks and tests. To shutdown the VM, log off and use this command:
+     III. Finally, execute your tasks and tests. To shutdown the VM, log off and use this command:
 
       ```shell
          $ vagrant halt
